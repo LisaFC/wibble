@@ -21,10 +21,6 @@ Here are some lovely icons:
   <i class="fas fa-handshake"></i> 
   <i class="fas fa-handshake-slash"></i> 
   
-Here is an ould triangle:
-
-{{< svg "triangle.svg" >}}
-  
 Here is a mindmap:
 
 ```markmap
