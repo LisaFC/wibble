@@ -19,6 +19,7 @@
 <script>
 window.markmap = {
   autoLoader: {
+      manual: true;
     onReady() {
       const { autoLoader, builtInPlugins } = window.markmap;
       autoLoader.transformPlugins = builtInPlugins.filter(plugin => plugin.name !== 'prism');
