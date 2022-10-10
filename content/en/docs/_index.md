@@ -21,6 +21,10 @@ Let's add some colourful text.
 
 <div class="-text-blue pt-3 display-4">Text: Blue</div>
 
+What about a search box
+
+<div class="docsearch"></div>
+
 Here are some lovely icons:
   <i class="fas fa-handshake"></i> 
   <i class="fas fa-handshake-slash"></i> 
