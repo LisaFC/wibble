@@ -23,7 +23,7 @@ Let's add some colourful text.
 
 What about a search box
 
-<div class="docsearch"></div>
+<div id="docsearch"></div>
 
 Here are some lovely icons:
   <i class="fas fa-handshake"></i> 
